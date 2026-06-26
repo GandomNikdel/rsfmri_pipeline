@@ -15,7 +15,6 @@
 #       • Subject QC reports
 #       • Dataset summary
 #
-# Author   : YOUR NAME
 #
 # Version  : 2.0.0
 #
