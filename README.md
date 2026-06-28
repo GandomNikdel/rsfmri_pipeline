@@ -1,4 +1,4 @@
-# rsfmri_pipeline_version_2
+# rsfmri_pipeline
 
 Resting-state fMRI preprocessing pipeline developed for reproducible neuroimaging analysis using FSL.
 
